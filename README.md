@@ -11,15 +11,20 @@ Public repository stats only, Private repository not included.
 
 ### GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shrestha-bishal&theme=radical&no-frame=true&margin-w=15)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=bigtyre-bishal&theme=radical&no-frame=true&margin-w=15)
-
+| Personal                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------- |
+| ![trophy](https://github-profile-trophy.vercel.app/?username=shrestha-bishal&theme=radical&no-frame=true&margin-w=15) |
+| Work                                                                                                                  |
+| ![trophy](https://github-profile-trophy.vercel.app/?username=bigtyre-bishal&theme=radical&no-frame=true&margin-w=15)  |
 ### Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bigtyre-bishal&theme=radical&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrestha-bishal&theme=radical&hide_border=true)
-
+| Personal                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bigtyre-bishal&theme=radical&hide_border=true)  |
+| Work                                                                                                                                    |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrestha-bishal&theme=radical&hide_border=true) |
 ### Languages & Tools 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha-bishal&layout=compact&theme=radical&hide_border=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtyre-bishal&layout=compact&theme=radical&hide_border=true) 
+
+| Personal                                                                                                                                       | Work                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha-bishal&layout=compact&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtyre-bishal&layout=compact&theme=radical&hide_border=true) |
