@@ -1,9 +1,9 @@
 ## "Hello world!, I'm Bishal Shrestha"
 
-##### Detail-oriented software engineer with 11+ years of programming experience
+Detail-oriented software engineer with 11+ years of programming experience
 
 #### GitHub Stats 
-##### Public repository stats only, Private repository not included.
+Public repository stats only, Private repository not included.
 
 |                                                                                        Personal                                                                                         |                                                                                          Work                                                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
