@@ -4,10 +4,11 @@
 
 #### GitHub Stats 
 <span>Public repository stats only, Private repository not included. </span>
-<div style="display:flex;flex-direction:row;justify-content:center;gap:10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=shrestha-bishal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api?username=shrestha-bishal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400"/>
+<div style="display:flex;flex-direction:row;justify-content:center:align-items:center;gap:10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=shrestha-bishal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bigtyre-bishal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="410"/>
 </div>
+
 #### GitHub Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shrestha-bishal&theme=radical&no-frame=true&margin-w=15)
