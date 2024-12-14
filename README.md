@@ -11,20 +11,20 @@ Public repository stats only, Private repository not included.
 
 ### GitHub Achievements
 
-| Personal                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------- |
+|                                                       Personal                                                        |
+| :-------------------------------------------------------------------------------------------------------------------: |
 | ![trophy](https://github-profile-trophy.vercel.app/?username=shrestha-bishal&theme=radical&no-frame=true&margin-w=15) |
-| Work                                                                                                                  |
+|                                                         Work                                                          |
 | ![trophy](https://github-profile-trophy.vercel.app/?username=bigtyre-bishal&theme=radical&no-frame=true&margin-w=15)  |
 ### Contribution Graph
 
-| Personal                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                Personal                                                                 |
+| :-------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bigtyre-bishal&theme=radical&hide_border=true)  |
-| Work                                                                                                                                    |
+|                                                                  Work                                                                   |
 | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrestha-bishal&theme=radical&hide_border=true) |
 ### Languages & Tools 
 
-| Personal                                                                                                                                       | Work                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                    Personal                                                                    |                                                                     Work                                                                      |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha-bishal&layout=compact&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtyre-bishal&layout=compact&theme=radical&hide_border=true) |
