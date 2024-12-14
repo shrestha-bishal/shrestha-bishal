@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4249d47b48cc22c0",
+        "id": "ad048a59224b4089",
         "type": "tabs",
         "children": [
           {
-            "id": "cb50a39185ab162f",
+            "id": "06f5ee98e4976ac1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "README.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (README)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -173,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb50a39185ab162f",
+  "active": "06f5ee98e4976ac1",
   "lastOpenFiles": [
     "README.md"
   ]
